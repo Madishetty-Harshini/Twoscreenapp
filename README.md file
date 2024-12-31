@@ -1,0 +1,18 @@
+# My Android App
+
+## Description
+This is a simple Android app that consists of two screens: a login page and a welcome page. The user enters their username and password on the first screen, and after submitting, they are taken to a second screen with a welcome message.
+
+## Features
+- User login functionality
+- Username-based welcome message
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Madishetty-Harshini/Twoscreenapp/new/master
+
+##Technologies Used
+Kotlin
+Android SDK
+Android Studio
